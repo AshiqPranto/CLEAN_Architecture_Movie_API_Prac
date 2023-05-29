@@ -1,0 +1,12 @@
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Domain\bin\Debug\net6.0\CleanMovie.Domain.deps.json
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Domain\bin\Debug\net6.0\CleanMovie.Domain.dll
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Domain\bin\Debug\net6.0\CleanMovie.Domain.pdb
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net6.0\CleanMovie.Domain.csproj.AssemblyReference.cache
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net6.0\CleanMovie.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net6.0\CleanMovie.Domain.AssemblyInfoInputs.cache
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net6.0\CleanMovie.Domain.AssemblyInfo.cs
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net6.0\CleanMovie.Domain.csproj.CoreCompileInputs.cache
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net6.0\CleanMovie.Domain.dll
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net6.0\refint\CleanMovie.Domain.dll
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net6.0\CleanMovie.Domain.pdb
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net6.0\ref\CleanMovie.Domain.dll

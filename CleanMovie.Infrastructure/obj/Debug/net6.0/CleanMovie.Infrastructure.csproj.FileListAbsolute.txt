@@ -1,0 +1,17 @@
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Infrastructure\bin\Debug\net6.0\CleanMovie.Infrastructure.deps.json
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Infrastructure\bin\Debug\net6.0\CleanMovie.Infrastructure.dll
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Infrastructure\bin\Debug\net6.0\CleanMovie.Infrastructure.pdb
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Infrastructure\bin\Debug\net6.0\CleanMovie.Application.dll
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Infrastructure\bin\Debug\net6.0\CleanMovie.Domain.dll
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Infrastructure\bin\Debug\net6.0\CleanMovie.Application.pdb
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Infrastructure\bin\Debug\net6.0\CleanMovie.Domain.pdb
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Infrastructure\obj\Debug\net6.0\CleanMovie.Infrastructure.csproj.AssemblyReference.cache
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Infrastructure\obj\Debug\net6.0\CleanMovie.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Infrastructure\obj\Debug\net6.0\CleanMovie.Infrastructure.AssemblyInfoInputs.cache
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Infrastructure\obj\Debug\net6.0\CleanMovie.Infrastructure.AssemblyInfo.cs
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Infrastructure\obj\Debug\net6.0\CleanMovie.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Infrastructure\obj\Debug\net6.0\CleanMovie.Infrastructure.csproj.CopyComplete
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Infrastructure\obj\Debug\net6.0\CleanMovie.Infrastructure.dll
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Infrastructure\obj\Debug\net6.0\refint\CleanMovie.Infrastructure.dll
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Infrastructure\obj\Debug\net6.0\CleanMovie.Infrastructure.pdb
+D:\Pranto\Web development\C#\CleanMovie.Domain\CleanMovie.Infrastructure\obj\Debug\net6.0\ref\CleanMovie.Infrastructure.dll
