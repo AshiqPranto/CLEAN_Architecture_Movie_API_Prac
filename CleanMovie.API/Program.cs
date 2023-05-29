@@ -1,7 +1,11 @@
 using CleanMovie.Application;
 using CleanMovie.Infrastructure;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
+
+//Register Configuratino
+ConfigurationManager configuration = builder.Configuration;
 
 // Add services to the container.
 
@@ -12,6 +16,12 @@ builder.Services.AddScoped<IMovieService, MovieService>();
 builder.Services.AddScoped<IMovieRepository, MovieRepository>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+
+//Add database connection
+builder.Services.AddDbContext<MovieDbContext>(options => 
+    options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"),
+    b => b.MigrationsAssembly("CleanMovie.API")));
 
 var app = builder.Build();
 

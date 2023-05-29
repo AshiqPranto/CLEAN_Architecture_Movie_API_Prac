@@ -16,6 +16,11 @@ namespace CleanMovie.Application
             _movieRepository = movieRepository;
         }
 
+        public Movie CreateMovie(Movie movie)
+        {
+            return _movieRepository.CreateMovie(movie);
+        }
+
         public List<Movie> GetAllMovies()
         {
             var movies = _movieRepository.GetAllMovies();
